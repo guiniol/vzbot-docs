@@ -43,4 +43,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "webrick", "~> 1.7"
 
 # Forced version requirement due to security vulnerability
-gem 'activesupport', '~> 7.0', '>= 7.0.8'
+gem 'activesupport', '~> 8.1'
